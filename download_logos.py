@@ -8,16 +8,16 @@ streams = []
 print "Starting..."
 s = requests.Session()
 s.verify=False
-    
+
 with open("mapping.json") as f:
   streams = json.load(f)["streams"]
-  
+
 for key,stream in streams.iteritems():
   url = stream.get("logo")
   if url == None:
     print "no logo for %s" % key
     continue
-    
+
   headers = {"Accept-Encoding": "gzip, deflate"}
   r = None
   try:
@@ -26,10 +26,10 @@ for key,stream in streams.iteritems():
   except Exception, e:
     print str(e)
     continue
-    
-  path = ".\\logos\\%s.png" % key.replace(" ", "").replace(")", "").replace("(", "").replace("+", "plus").replace("-", "minus").lower()
+
+  path = "./logos/%s.png" % key.replace(" ","").replace(")","").replace("(","").replace("+","plus").replace("-","minus").replace("/","").replace("&","").replace(".","").lower()
   print "log=%s" % path
-  
+
   with open(path, 'wb') as w:
     r.raw.decode_content = True
     shutil.copyfileobj(r.raw, w)
