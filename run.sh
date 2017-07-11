@@ -22,17 +22,15 @@ wget http://sov02lr02/guides/epg.xml -O epg.xml
 gzip < epg.xml > epg.xml.gz
 gzip < epg.xml > alltv-guide.xml.gz
 
-
 #md5sum epg.xml > checksum.txt
 cut -d ' ' -f 1 <<< `md5sum epg.xml` > checksum.txt
 
-#cp ./epg.xml.gz ~/EPG/
-#cp ./epg.xml.gz ~/EPG/alltv-guide.xml.gz
-
+#remove epg.xml
+rm epg.xml
 
 #commit EPG update
 echo "Commiting changes to GIT server"
 git add -A
-git commit -m "Regular EPG update"
+git commit -m "Daily EPG update"
 echo "Pushing changes to GIT server"
 git push
