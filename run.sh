@@ -1,4 +1,6 @@
 #!/bin/bash -e
+no_proxy=sov02lr02
+export no_proxy
 
 arg=""
 if [[ $@ == "-f" ]]; then echo "Forced download!"; arg="-f"; fi
