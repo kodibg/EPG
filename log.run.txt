@@ -1,2 +1,2 @@
-Forced download!
 Already up-to-date.
+Commiting changes to GIT server
