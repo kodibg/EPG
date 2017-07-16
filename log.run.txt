@@ -1,877 +1,336 @@
 Forced download!
 From github.com:harrygg/EPG
-   ceeab19..d1112a1  master     -> origin/master
-Updating ceeab19..d1112a1
+   b242b94..dc0212c  master     -> origin/master
+Updating b242b94..dc0212c
 Fast-forward
- logos/1plus1ukr.png                                |  Bin 3810 -> 0 bytes
- logos/1ukr.png                                     |  Bin 0 -> 37716 bytes
- logos/24kitchenhd.png                              |  Bin 0 -> 17322 bytes
- logos/ahaberhd.png                                 |  Bin 0 -> 29343 bytes
- logos/akillitv.png                                 |  Bin 24290 -> 29128 bytes
- logos/alfamk.png                                   |  Bin 159 -> 17102 bytes
- logos/alfaomegatv.png                              |  Bin 0 -> 58534 bytes
- logos/aljazeerabalkans.png                         |  Bin 0 -> 69015 bytes
- logos/aljazeerabalkanshd.png                       |  Bin 0 -> 69015 bytes
- logos/aljazeeraenglish.png                         |  Bin 0 -> 24688 bytes
- logos/andtvhd.png                                  |  Bin 0 -> 4092 bytes
- logos/animalplanethd.png                           |  Bin 0 -> 39418 bytes
- logos/anixehd.png                                  |  Bin 0 -> 58956 bytes
- logos/arddaserstehd.png                            |  Bin 0 -> 19596 bytes
- logos/ardonehd.png                                 |  Bin 0 -> 19596 bytes
- logos/arirang.png                                  |  Bin 17127 -> 12751 bytes
- logos/ariranghd.png                                |  Bin 0 -> 12751 bytes
- logos/artefrancais.png                             |  Bin 10586 -> 64386 bytes
- logos/artefrancaishd.png                           |  Bin 0 -> 64386 bytes
- logos/aspor.png                                    |  Bin 0 -> 338728 bytes
- logos/asporhd.png                                  |  Bin 0 -> 351354 bytes
- logos/atvavrupa.png                                |  Bin 19517 -> 88586 bytes
- logos/atvhd.png                                    |  Bin 0 -> 8754 bytes
- logos/{automotosport.png => automotorsport.png}    |  Bin 46772 -> 46772 bytes
- logos/automotorsporthd.png                         |  Bin 0 -> 25851 bytes
- logos/balkanikahd.png                              |  Bin 0 -> 32239 bytes
- logos/{beinsport1hdfr.png => beinsports1hdfr.png}  |  Bin 24764 -> 24764 bytes
- logos/beyaztvhd.png                                |  Bin 0 -> 9157 bytes
- logos/bgdneshd.png                                 |  Bin 0 -> 6325 bytes
- .../bglov.png                                      |  Bin 27439 -> 27439 bytes
- logos/bgmusichd.png                                |  Bin 0 -> 17206 bytes
- logos/bloombergbghd.png                            |  Bin 0 -> 17044 bytes
- logos/bnt2hd.png                                   |  Bin 0 -> 8530 bytes
- logos/bntworldhd.png                               |  Bin 0 -> 34537 bytes
- logos/boxhd.png                                    |  Bin 0 -> 33422 bytes
- logos/bridgehd.png                                 |  Bin 0 -> 3434 bytes
- logos/{btsport1.png => btsports1.png}              |  Bin 9467 -> 9467 bytes
- logos/{btsport2.png => btsports2.png}              |  Bin 9986 -> 9986 bytes
- logos/btvactionhd.png                              |  Bin 0 -> 16479 bytes
- logos/{che.png => ce.png}                          |  Bin 11097 -> 11097 bytes
- logos/{chernomore.png => cernomore.png}            |  Bin 14044 -> 14044 bytes
- logos/cgtn.png                                     |  Bin 162 -> 27311 bytes
- logos/chartshowhits.png                            |  Bin 0 -> 3709 bytes
- logos/chartshowtv.png                              |  Bin 0 -> 4901 bytes
- logos/chassepeche.png                              |  Bin 0 -> 26078 bytes
- logos/cinemamax.png                                |  Bin 0 -> 15135 bytes
- logos/cinemamaxhd.png                              |  Bin 0 -> 40995 bytes
- logos/cnnturkhd.png                                |  Bin 0 -> 81110 bytes
- logos/cosmoesen.png                                |  Bin 0 -> 98183 bytes
- logos/cosmohdesen.png                              |  Bin 0 -> 98183 bytes
- .../ctcint.png                                     |  Bin 329620 -> 329620 bytes
- logos/darts.png                                    |  Bin 207 -> 2559 bytes
- logos/deluxemusichd.png                            |  Bin 0 -> 125859 bytes
- logos/{destintsiabg.png => destinaziabg.png}       |  Bin 43426 -> 43426 bytes
- ...tskiymirteleklub.png => detskiimirteleklub.png} |  Bin 21579 -> 21579 bytes
- .../{diemasport2hd - Copy.png => diemasport2.png}  |  Bin 19543 -> 19543 bytes
- logos/digisport4.png                               |  Bin 4177 -> 34224 bytes
- logos/discoveryhdde.png                            |  Bin 0 -> 10278 bytes
- logos/discoveryit.png                              |  Bin 0 -> 16517 bytes
- logos/discoverysciencehd.png                       |  Bin 0 -> 102937 bytes
- logos/discoveryshowcasehd.png                      |  Bin 0 -> 112650 bytes
- logos/discoveryturbo.png                           |  Bin 0 -> 182815 bytes
- logos/discoveryturbohd.png                         |  Bin 4914 -> 140125 bytes
- logos/disneydehd.png                               |  Bin 0 -> 59204 bytes
- logos/disneyru.png                                 |  Bin 0 -> 75585 bytes
- logos/dmaxdehd.png                                 |  Bin 0 -> 23081 bytes
- logos/docuboxhd.png                                |  Bin 0 -> 20975 bytes
- logos/domkino.png                                  |  Bin 9383 -> 15579 bytes
- logos/domkinopremiumhd.png                         |  Bin 9383 -> 44972 bytes
- logos/dusk!.png                                    |   11 ----
- logos/dusk.png                                     |  Bin 0 -> 150407 bytes
- logos/englishclubhd.png                            |  Bin 0 -> 23189 bytes
- logos/erox.png                                     |  Bin 11585 -> 3649 bytes
- logos/eroxxhd.png                                  |  Bin 11585 -> 4166 bytes
- logos/ertworld.png                                 |  Bin 0 -> 44221 bytes
- logos/estradatv.png                                |  Bin 0 -> 133483 bytes
- logos/esttv.png                                    |  Bin 0 -> 20747 bytes
- logos/euronews.png                                 |  Bin 4704 -> 14311 bytes
- logos/euronewshd.png                               |  Bin 0 -> 14311 bytes
- logos/eurosport2hd.png                             |  Bin 0 -> 38667 bytes
- logos/eurosportdehd.png                            |  Bin 0 -> 27265 bytes
- logos/eurosporthd.png                              |  Bin 0 -> 27265 bytes
- logos/evrokino.png                                 |  Bin 4844 -> 12921 bytes
- logos/{evroshans.png => evrosans.png}              |  Bin 14468 -> 14468 bytes
- logos/fashiontelevision.png                        |  Bin 0 -> 6830 bytes
- logos/{fastandfunbox.png => fastandfun.png}        |  Bin 8883 -> 8883 bytes
- logos/fastandfunhd.png                             |  Bin 0 -> 8883 bytes
- logos/fightboxhd.png                               |  Bin 2977 -> 11143 bytes
- logos/fightworldhd.png                             |  Bin 0 -> 303520 bytes
- logos/fineliving.png                               |  Bin 4677 -> 19662 bytes
- logos/finelivinghd.png                             |  Bin 0 -> 19662 bytes
- logos/fishinghunting.png                           |  Bin 39486 -> 77595 bytes
- logos/fishinghuntinghd.png                         |  Bin 0 -> 77595 bytes
- logos/flashtv.png                                  |  Bin 0 -> 39304 bytes
- logos/flava.png                                    |  Bin 0 -> 37423 bytes
- logos/foodnetworkhd.png                            |  Bin 0 -> 97165 bytes
- logos/foxcrimehd.png                               |  Bin 0 -> 72252 bytes
- logos/foxhd.png                                    |  Bin 10356 -> 5343 bytes
- logos/foxhdde.png                                  |  Bin 0 -> 5343 bytes
- logos/foxlifehd.png                                |  Bin 0 -> 24631 bytes
- logos/foxru.png                                    |  Bin 0 -> 10356 bytes
- logos/foxruhd.png                                  |  Bin 1733 -> 5343 bytes
- logos/foxtrhd.png                                  |  Bin 0 -> 5343 bytes
- logos/ftvuhd.png                                   |  Bin 0 -> 6828 bytes
- logos/fueltvhd.png                                 |  Bin 0 -> 60160 bytes
- logos/gotv.png                                     |  Bin 0 -> 6530 bytes
- logos/grand.png                                    |  Bin 0 -> 13087 bytes
- logos/grand2.png                                   |  Bin 0 -> 12924 bytes
- logos/haberturk.png                                |  Bin 8350 -> 3456 bytes
- logos/hbo3.png                                     |  Bin 0 -> 15640 bytes
- logos/history2hd.png                               |  Bin 0 -> 60693 bytes
- logos/hmtvhd.png                                   |  Bin 0 -> 45077 bytes
- logos/ictvukr.png                                  |  Bin 0 -> 7282 bytes
- "logos/ictv\321\203\320\272\321\200.png"           |  Bin 1772 -> 0 bytes
- logos/idxtrahd.png                                 |  Bin 0 -> 64332 bytes
- logos/iskusenie.png                                |  Bin 0 -> 24866 bytes
- logos/jivi.png                                     |  Bin 0 -> 136159 bytes
- logos/kanal3tr.png                                 |  Bin 0 -> 79645 bytes
- logos/kanal7tr.png                                 |  Bin 0 -> 4396 bytes
- logos/kanaldro.png                                 |  Bin 0 -> 18358 bytes
- logos/{karusel.png => karusely.png}                |  Bin 13839 -> 13839 bytes
- logos/{karuselru.png => karuselyru.png}            |  Bin 13839 -> 13839 bytes
- logos/kerrangtv.png                                |  Bin 0 -> 75301 bytes
- logos/kis13.png                                    |  Bin 6933 -> 17869 bytes
- logos/kisstv.png                                   |  Bin 133 -> 33996 bytes
- logos/konnyimirhd.png                              |  Bin 3228 -> 7494 bytes
- logos/ladeux.png                                   |  Bin 88003 -> 15879 bytes
- logos/{beinsportslaliga.png => laliga.png}         |  Bin 37162 -> 37162 bytes
- logos/laligahd.png                                 |  Bin 0 -> 37162 bytes
- logos/magicuk.png                                  |  Bin 0 -> 14639 bytes
- logos/makedoniatv.png                              |  Bin 0 -> 35881 bytes
- logos/{matchboets.png => matcboez.png}             |  Bin 32558 -> 32558 bytes
- logos/{matchfutbol1.png => matcfutbol1hd.png}      |  Bin 3588 -> 3588 bytes
- logos/{matchfutbol2.png => matcfutbol2hd.png}      |  Bin 2332 -> 2332 bytes
- logos/{matchfutbol3.png => matcfutbol3hd.png}      |  Bin 2443 -> 2443 bytes
- logos/{matchtv.png => matctv.png}                  |  Bin 24925 -> 24925 bytes
- logos/{matchtvhd.png => matctvhd.png}              |  Bin 6853 -> 6853 bytes
- logos/mirtv.png                                    |  Bin 5403 -> 55738 bytes
- logos/moaplaneta.png                               |  Bin 0 -> 117505 bytes
- logos/motorvisionhd.png                            |  Bin 0 -> 216613 bytes
- logos/moviemaxpremier1hd.png                       |  Bin 0 -> 17286 bytes
- logos/movistarf1hd.png                             |  Bin 53163 -> 45775 bytes
- logos/movistargphd.png                             |  Bin 29929 -> 6294 bytes
- logos/moyaplaneta.png                              |  Bin 22012 -> 0 bytes
- logos/musicboxrussia.png                           |  Bin 6941 -> 19318 bytes
- logos/muzika.png                                   |  Bin 9571 -> 0 bytes
- logos/muzyka.png                                   |  Bin 0 -> 4656 bytes
- logos/n24docu.png                                  |  Bin 0 -> 109249 bytes
- logos/nasekino.png                                 |  Bin 0 -> 1344 bytes
- logos/{nashfutbol.png => nasfutbolhd.png}          |  Bin 72953 -> 72953 bytes
- logos/nashekino.png                                |  Bin 1696 -> 0 bytes
- logos/natgeohd.png                                 |  Bin 13480 -> 30876 bytes
- logos/natgeohdde.png                               |  Bin 9662 -> 30876 bytes
- logos/natgeowildeuhd.png                           |  Bin 0 -> 139272 bytes
- logos/natgeowildhd.png                             |  Bin 8157 -> 139272 bytes
- logos/nauka20.png                                  |  Bin 1826 -> 14867 bytes
- logos/nhkworldhd.png                               |  Bin 0 -> 19705 bytes
- logos/{nickeldeonhd.png => nickelodeonhd.png}      |  Bin 68295 -> 68295 bytes
- logos/nminustv.png                                 |  Bin 5468 -> 5644 bytes
- logos/nminustvhd.png                               |  Bin 0 -> 53855 bytes
- logos/nocnoiklub.png                               |  Bin 0 -> 55264 bytes
- logos/novasporthd.png                              |  Bin 0 -> 34956 bytes
- logos/ntvhd.png                                    |  Bin 0 -> 154715 bytes
- logos/ntvmir.png                                   |  Bin 1892 -> 16176 bytes
- logos/ntvspor.png                                  |  Bin 0 -> 89806 bytes
- logos/ntvsporhd.png                                |  Bin 0 -> 89806 bytes
- logos/ntvtr.png                                    |  Bin 0 -> 75973 bytes
- logos/ntvtrhd.png                                  |  Bin 0 -> 75973 bytes
- logos/ohotairibalki.png                            |  Bin 6245 -> 0 bytes
- logos/ohotairybalka.png                            |  Bin 0 -> 37482 bytes
- logos/orf1hd.png                                   |  Bin 0 -> 39999 bytes
- logos/orf2hd.png                                   |  Bin 0 -> 26255 bytes
- logos/patniza.png                                  |  Bin 0 -> 34661 bytes
- logos/{perets.png => perez.png}                    |  Bin 102850 -> 102850 bytes
- logos/perviykanaleur.png                           |  Bin 12108 -> 0 bytes
- logos/perviykanalhdru.png                          |  Bin 12108 -> 21059 bytes
- logos/planeta.png                                  |  Bin 62564 -> 30566 bytes
- logos/powerturkhd.png                              |  Bin 0 -> 106162 bytes
- logos/premiersportshd.png                          |  Bin 0 -> 52524 bytes
- logos/premiumaction.png                            |  Bin 0 -> 47121 bytes
- logos/premiumactionplus24.png                      |  Bin 47121 -> 27765 bytes
- logos/premiumcinema2it.png                         |  Bin 3860 -> 28010 bytes
- logos/premiumcinemaenergy.png                      |  Bin 28 -> 340350 bytes
- logos/premiumstories.png                           |  Bin 321 -> 4063 bytes
- logos/primafila.png                                |  Bin 0 -> 18136 bytes
- logos/primafila3.png                               |  Bin 0 -> 18136 bytes
- logos/protvintl.png                                |  Bin 0 -> 5240 bytes
- logos/pyatnitsa.png                                |  Bin 8156 -> 0 bytes
- logos/racinguk.png                                 |  Bin 25613 -> 6045 bytes
- logos/racingukhd.png                               |  Bin 0 -> 8032 bytes
- logos/raimoviehd.png                               |  Bin 0 -> 25664 bytes
- logos/raiscuolahd.png                              |  Bin 0 -> 17367 bytes
- logos/raisportplushd.png                           |  Bin 0 -> 3027 bytes
- logos/raiyoyohd.png                                |  Bin 0 -> 59140 bytes
- logos/ringbghd.png                                 |  Bin 0 -> 5599 bytes
- logos/rishtey.png                                  |  Bin 2396 -> 58419 bytes
- logos/romatvhd.png                                 |  Bin 0 -> 5450 bytes
- logos/rossia1.png                                  |  Bin 0 -> 24436 bytes
- logos/rossia24.png                                 |  Bin 0 -> 47446 bytes
- logos/rossiahd.png                                 |  Bin 3972 -> 25620 bytes
- logos/rsila1.png                                   |  Bin 24497 -> 18337 bytes
- logos/rsila2.png                                   |  Bin 0 -> 24497 bytes
- logos/rtl2hd.png                                   |  Bin 0 -> 38573 bytes
- logos/rtlhd.png                                    |  Bin 0 -> 86782 bytes
- logos/rtlzhdnl.png                                 |  Bin 0 -> 11205 bytes
- logos/rtlznl.png                                   |  Bin 0 -> 21519 bytes
- logos/rtrplaneta.png                               |  Bin 5399 -> 58301 bytes
- logos/rtvi.png                                     |  Bin 8092 -> 14247 bytes
- logos/rumelitv.png                                 |  Bin 0 -> 308660 bytes
- logos/ruskiyekstrim.png                            |  Bin 8156 -> 0 bytes
- logos/russiantravelguide.png                       |  Bin 4820 -> 38221 bytes
- logos/russkaanocy.png                              |  Bin 0 -> 19844 bytes
- logos/russkiiekstrim.png                           |  Bin 0 -> 393066 bytes
- logos/russkiiekstrimhd.png                         |  Bin 0 -> 393066 bytes
- logos/russkiiilluzion.png                          |  Bin 0 -> 69899 bytes
- logos/salsaplus.png                                |  Bin 0 -> 66008 bytes
- logos/sat1.png                                     |  Bin 20 -> 74748 bytes
- logos/sat1gold.png                                 |  Bin 7183 -> 21259 bytes
- logos/sat1goldhd.png                               |  Bin 0 -> 7183 bytes
- logos/sat1hd.png                                   |  Bin 0 -> 538094 bytes
- logos/{sctboyamp;boy.png => sctboyboy.png}         |  Bin 35252 -> 35252 bytes
- logos/scuzz.png                                    |  Bin 0 -> 110945 bytes
- logos/semerkand.png                                |  Bin 305 -> 47598 bytes
- logos/semerkandhd.png                              |  Bin 0 -> 47598 bytes
- logos/servusathd.png                               |  Bin 0 -> 102625 bytes
- logos/shanson.png                                  |  Bin 10188 -> 11793 bytes
- logos/showtv.png                                   |  Bin 11375 -> 155853 bytes
- logos/showtvhd.png                                 |  Bin 0 -> 155853 bytes
- logos/shumen.png                                   |   65 --------------------
- logos/skyactionhd.png                              |  Bin 0 -> 189234 bytes
- logos/skybundesliga1.png                           |  Bin 0 -> 9056 bytes
- logos/skybundesliga1hd.png                         |  Bin 0 -> 31516 bytes
- logos/skycinemafamilyhd.png                        |  Bin 0 -> 65460 bytes
- logos/skycinemahd.png                              |  Bin 0 -> 42078 bytes
- logos/skycinemahitshd.png                          |  Bin 0 -> 218207 bytes
- logos/skycomedy.png                                |  Bin 0 -> 216150 bytes
- logos/skyitcinema.png                              |  Bin 0 -> 139600 bytes
- logos/skyitcinemacomedy.png                        |  Bin 0 -> 74787 bytes
- logos/skyitcinemacult.png                          |  Bin 0 -> 23978 bytes
- logos/skyitcinemafamily.png                        |  Bin 0 -> 40694 bytes
- logos/skyitcinemahits.png                          |  Bin 0 -> 55892 bytes
- logos/skyitcinemapassion.png                       |  Bin 0 -> 23270 bytes
- logos/skynews.png                                  |  Bin 15827 -> 60971 bytes
- logos/smashhits.png                                |  Bin 9879 -> 9285 bytes
- logos/{sonymoviechannel.png => sonymovies.png}     |  Bin 1526627 -> 1526627 bytes
- logos/spiegelgeschichtehd.png                      |  Bin 0 -> 28354 bytes
- logos/sport1dehd.png                               |  Bin 0 -> 4591 bytes
- logos/sportklub3hd.png                             |  Bin 0 -> 15867 bytes
- logos/sportklub6.png                               |  Bin 0 -> 29168 bytes
- logos/srfernsehenhd.png                            |  Bin 0 -> 16784 bytes
- logos/stargold.png                                 |  Bin 0 -> 283660 bytes
- logos/starlifeok.png                               |  Bin 53259 -> 22097 bytes
- logos/starplus.png                                 |  Bin 0 -> 125547 bytes
- logos/starplushd.png                               |  Bin 0 -> 125547 bytes
- logos/startvhd.png                                 |  Bin 0 -> 22004 bytes
- logos/stbukr.png                                   |  Bin 2406 -> 78431 bytes
- logos/{stoychev.png => stoicev.png}                |  Bin 71820 -> 71820 bytes
- logos/stsint.png                                   |  Bin 0 -> 329620 bytes
- logos/sumen.png                                    |  Bin 0 -> 4055 bytes
- logos/superone.png                                 |  Bin 68932 -> 37735 bytes
- logos/{supertennis.png => suppertennis.png}        |  Bin 52332 -> 52332 bytes
- logos/suppertennishd.png                           |  Bin 0 -> 52332 bytes
- logos/taytvhd.png                                  |  Bin 0 -> 124990 bytes
- logos/tbnrossia.png                                |  Bin 10330 -> 5501 bytes
- logos/tele5dehd.png                                |  Bin 0 -> 2239 bytes
- logos/telekafe.png                                 |  Bin 9282 -> 4809 bytes
- logos/telekanalkhl.png                             |  Bin 0 -> 38017 bytes
- logos/telekanalkhlhd.png                           |  Bin 0 -> 47517 bytes
- ...ovostey24ukr.png => telekanalnovostei24ukr.png} |  Bin 4631 -> 4631 bytes
- logos/teve2.png                                    |  Bin 53376 -> 62073 bytes
- logos/teve2hd.png                                  |  Bin 0 -> 62073 bytes
- logos/thevault.png                                 |  Bin 0 -> 14682 bytes
- logos/tivibuspor.png                               |  Bin 162 -> 4295 bytes
- logos/tnt.png                                      |  Bin 24564 -> 490720 bytes
- logos/tnthd.png                                    |  Bin 0 -> 490720 bytes
- logos/travelchannelhd.png                          |  Bin 0 -> 87963 bytes
- logos/travelhd.png                                 |  Bin 212 -> 3727 bytes
- logos/trt1hd.png                                   |  Bin 0 -> 495376 bytes
- logos/trtavaz.png                                  |  Bin 162 -> 28544 bytes
- logos/trtbelgesel.png                              |  Bin 135 -> 10210 bytes
- logos/trtbelgeselhd.png                            |  Bin 0 -> 14465 bytes
- logos/trtcocukhd.png                               |  Bin 0 -> 89054 bytes
- logos/trtworldhd.png                               |  Bin 0 -> 185620 bytes
- logos/truemovies.png                               |  Bin 0 -> 28399 bytes
- logos/trutv.png                                    |  Bin 0 -> 21980 bytes
- logos/trutvhd.png                                  |  Bin 0 -> 824 bytes
- logos/tv1000komedihd.png                           |  Bin 0 -> 4432 bytes
- logos/tv1000megahithd.png                          |  Bin 0 -> 190285 bytes
- logos/tv1000premium.png                            |  Bin 0 -> 50669 bytes
- logos/tv1000premiumhd.png                          |  Bin 0 -> 182291 bytes
- logos/tv1000russkoekino.png                        |  Bin 0 -> 141350 bytes
- ...\320\276\320\274\320\265\320\264\320\270hd.png" |  Bin 4321 -> 0 bytes
- ...\320\263\320\260\321\205\320\270\321\202hd.png" |  Bin 4527 -> 0 bytes
- ...\320\265\320\274\320\270\321\203\320\274hd.png" |  Bin 3897 -> 0 bytes
- logos/tv1hd.png                                    |  Bin 0 -> 65807 bytes
- logos/tvcitsenterint.png                           |  Bin 0 -> 53645 bytes
- logos/tvnhd.png                                    |  Bin 0 -> 10966 bytes
- logos/tvr2ro.png                                   |  Bin 0 -> 106313 bytes
- logos/tvr3ro.png                                   |  Bin 0 -> 24523 bytes
- logos/tvr3rohd.png                                 |  Bin 0 -> 45677 bytes
- logos/tvrcluj.png                                  |  Bin 0 -> 73435 bytes
- logos/tvrcraiova.png                               |  Bin 0 -> 58751 bytes
- logos/tvrhdro.png                                  |  Bin 0 -> 36915 bytes
- logos/tvrinternational.png                         |  Bin 10165 -> 51986 bytes
- logos/tvrlasi.png                                  |  Bin 0 -> 29393 bytes
- logos/tvrmoldova.png                               |  Bin 0 -> 80392 bytes
- logos/tvrtarguminusmures.png                       |  Bin 0 -> 136991 bytes
- logos/tvrtimisoara.png                             |  Bin 0 -> 112389 bytes
- logos/tvzentrmejdunarodnyi.png                     |  Bin 0 -> 53645 bytes
- logos/{tvcitsenter.png => tvzentrrossia.png}       |  Bin 4513 -> 4513 bytes
- logos/{yu.png => u.png}                            |  Bin 2565 -> 2565 bytes
- logos/uatvukr.png                                  |  Bin 0 -> 19556 bytes
- logos/viphd.png                                    |  Bin 0 -> 11891 bytes
- logos/viptv.png                                    |  Bin 0 -> 10420 bytes
- logos/vrema.png                                    |  Bin 0 -> 9841 bytes
- logos/vremya.png                                   |  Bin 10300 -> 0 bytes
- logos/wdrhd.png                                    |  Bin 0 -> 130357 bytes
- logos/westtvregional.png                           |  Bin 0 -> 74842 bytes
- logos/wildtvhd.png                                 |  Bin 0 -> 33433 bytes
- logos/yabantv.png                                  |  Bin 0 -> 294120 bytes
- logos/zdf.png                                      |  Bin 0 -> 53585 bytes
- logos/zdfhd.png                                    |  Bin 0 -> 42789 bytes
- logos/zhivi.png                                    |  Bin 7290 -> 0 bytes
- logos/ziggosportselecthd.png                       |  Bin 0 -> 4028 bytes
- logos/zvezda.png                                   |  Bin 6408 -> 7608 bytes
- 325 files changed, 76 deletions(-)
- delete mode 100644 logos/1plus1ukr.png
- create mode 100644 logos/1ukr.png
- create mode 100644 logos/24kitchenhd.png
- create mode 100644 logos/ahaberhd.png
- create mode 100644 logos/alfaomegatv.png
- create mode 100644 logos/aljazeerabalkans.png
- create mode 100644 logos/aljazeerabalkanshd.png
- create mode 100644 logos/aljazeeraenglish.png
- create mode 100644 logos/andtvhd.png
- create mode 100644 logos/animalplanethd.png
- create mode 100644 logos/anixehd.png
- create mode 100644 logos/arddaserstehd.png
- create mode 100644 logos/ardonehd.png
- create mode 100644 logos/ariranghd.png
- create mode 100644 logos/artefrancaishd.png
- create mode 100644 logos/aspor.png
- create mode 100644 logos/asporhd.png
- create mode 100644 logos/atvhd.png
- rename logos/{automotosport.png => automotorsport.png} (100%)
- create mode 100644 logos/automotorsporthd.png
- create mode 100644 logos/balkanikahd.png
- rename logos/{beinsport1hdfr.png => beinsports1hdfr.png} (100%)
- create mode 100644 logos/beyaztvhd.png
- create mode 100644 logos/bgdneshd.png
- rename "logos/bg\320\273\320\276\320\262.png" => logos/bglov.png (100%)
- create mode 100644 logos/bgmusichd.png
- create mode 100644 logos/bloombergbghd.png
- create mode 100644 logos/bnt2hd.png
- create mode 100644 logos/bntworldhd.png
- create mode 100644 logos/boxhd.png
- create mode 100644 logos/bridgehd.png
- rename logos/{btsport1.png => btsports1.png} (100%)
- rename logos/{btsport2.png => btsports2.png} (100%)
- create mode 100644 logos/btvactionhd.png
- rename logos/{che.png => ce.png} (100%)
- rename logos/{chernomore.png => cernomore.png} (100%)
- create mode 100644 logos/chartshowhits.png
- create mode 100644 logos/chartshowtv.png
- create mode 100644 logos/chassepeche.png
- create mode 100644 logos/cinemamax.png
- create mode 100644 logos/cinemamaxhd.png
- create mode 100644 logos/cnnturkhd.png
- create mode 100644 logos/cosmoesen.png
- create mode 100644 logos/cosmohdesen.png
- rename "logos/ctc\320\270\320\275\321\202.png" => logos/ctcint.png (100%)
- create mode 100644 logos/deluxemusichd.png
- rename logos/{destintsiabg.png => destinaziabg.png} (100%)
- rename logos/{detskiymirteleklub.png => detskiimirteleklub.png} (100%)
- rename logos/{diemasport2hd - Copy.png => diemasport2.png} (100%)
- create mode 100644 logos/discoveryhdde.png
- create mode 100644 logos/discoveryit.png
- create mode 100644 logos/discoverysciencehd.png
- create mode 100644 logos/discoveryshowcasehd.png
- create mode 100644 logos/discoveryturbo.png
- create mode 100644 logos/disneydehd.png
- create mode 100644 logos/disneyru.png
- create mode 100644 logos/dmaxdehd.png
- create mode 100644 logos/docuboxhd.png
- delete mode 100644 logos/dusk!.png
- create mode 100644 logos/dusk.png
- create mode 100644 logos/englishclubhd.png
- create mode 100644 logos/ertworld.png
- create mode 100644 logos/estradatv.png
- create mode 100644 logos/esttv.png
- create mode 100644 logos/euronewshd.png
- create mode 100644 logos/eurosport2hd.png
- create mode 100644 logos/eurosportdehd.png
- create mode 100644 logos/eurosporthd.png
- rename logos/{evroshans.png => evrosans.png} (100%)
- create mode 100644 logos/fashiontelevision.png
- rename logos/{fastandfunbox.png => fastandfun.png} (100%)
- create mode 100644 logos/fastandfunhd.png
- create mode 100644 logos/fightworldhd.png
- create mode 100644 logos/finelivinghd.png
- create mode 100644 logos/fishinghuntinghd.png
- create mode 100644 logos/flashtv.png
- create mode 100644 logos/flava.png
- create mode 100644 logos/foodnetworkhd.png
- create mode 100644 logos/foxcrimehd.png
- create mode 100644 logos/foxhdde.png
- create mode 100644 logos/foxlifehd.png
- create mode 100644 logos/foxru.png
- create mode 100644 logos/foxtrhd.png
- create mode 100644 logos/ftvuhd.png
- create mode 100644 logos/fueltvhd.png
- create mode 100644 logos/gotv.png
- create mode 100644 logos/grand.png
- create mode 100644 logos/grand2.png
- create mode 100644 logos/hbo3.png
- create mode 100644 logos/history2hd.png
- create mode 100644 logos/hmtvhd.png
- create mode 100644 logos/ictvukr.png
- delete mode 100644 "logos/ictv\321\203\320\272\321\200.png"
- create mode 100644 logos/idxtrahd.png
- create mode 100644 logos/iskusenie.png
- create mode 100644 logos/jivi.png
- create mode 100644 logos/kanal3tr.png
- create mode 100644 logos/kanal7tr.png
- create mode 100644 logos/kanaldro.png
- rename logos/{karusel.png => karusely.png} (100%)
- rename logos/{karuselru.png => karuselyru.png} (100%)
- create mode 100644 logos/kerrangtv.png
- rename logos/{beinsportslaliga.png => laliga.png} (100%)
- create mode 100644 logos/laligahd.png
- create mode 100644 logos/magicuk.png
- create mode 100644 logos/makedoniatv.png
- rename logos/{matchboets.png => matcboez.png} (100%)
- rename logos/{matchfutbol1.png => matcfutbol1hd.png} (100%)
- rename logos/{matchfutbol2.png => matcfutbol2hd.png} (100%)
- rename logos/{matchfutbol3.png => matcfutbol3hd.png} (100%)
- rename logos/{matchtv.png => matctv.png} (100%)
- rename logos/{matchtvhd.png => matctvhd.png} (100%)
- create mode 100644 logos/moaplaneta.png
- create mode 100644 logos/motorvisionhd.png
- create mode 100644 logos/moviemaxpremier1hd.png
- delete mode 100644 logos/moyaplaneta.png
- delete mode 100644 logos/muzika.png
- create mode 100644 logos/muzyka.png
- create mode 100644 logos/n24docu.png
- create mode 100644 logos/nasekino.png
- rename logos/{nashfutbol.png => nasfutbolhd.png} (100%)
- delete mode 100644 logos/nashekino.png
- create mode 100644 logos/natgeowildeuhd.png
- create mode 100644 logos/nhkworldhd.png
- rename logos/{nickeldeonhd.png => nickelodeonhd.png} (100%)
- create mode 100644 logos/nminustvhd.png
- create mode 100644 logos/nocnoiklub.png
- create mode 100644 logos/novasporthd.png
- create mode 100644 logos/ntvhd.png
- create mode 100644 logos/ntvspor.png
- create mode 100644 logos/ntvsporhd.png
- create mode 100644 logos/ntvtr.png
- create mode 100644 logos/ntvtrhd.png
- delete mode 100644 logos/ohotairibalki.png
- create mode 100644 logos/ohotairybalka.png
- create mode 100644 logos/orf1hd.png
- create mode 100644 logos/orf2hd.png
- create mode 100644 logos/patniza.png
- rename logos/{perets.png => perez.png} (100%)
- delete mode 100644 logos/perviykanaleur.png
- create mode 100644 logos/powerturkhd.png
- create mode 100644 logos/premiersportshd.png
- create mode 100644 logos/premiumaction.png
- create mode 100644 logos/primafila.png
- create mode 100644 logos/primafila3.png
- create mode 100644 logos/protvintl.png
- delete mode 100644 logos/pyatnitsa.png
- create mode 100644 logos/racingukhd.png
- create mode 100644 logos/raimoviehd.png
- create mode 100644 logos/raiscuolahd.png
- create mode 100644 logos/raisportplushd.png
- create mode 100644 logos/raiyoyohd.png
- create mode 100644 logos/ringbghd.png
- create mode 100644 logos/romatvhd.png
- create mode 100644 logos/rossia1.png
- create mode 100644 logos/rossia24.png
- create mode 100644 logos/rsila2.png
- create mode 100644 logos/rtl2hd.png
- create mode 100644 logos/rtlhd.png
- create mode 100644 logos/rtlzhdnl.png
- create mode 100644 logos/rtlznl.png
- create mode 100644 logos/rumelitv.png
- delete mode 100644 logos/ruskiyekstrim.png
- create mode 100644 logos/russkaanocy.png
- create mode 100644 logos/russkiiekstrim.png
- create mode 100644 logos/russkiiekstrimhd.png
- create mode 100644 logos/russkiiilluzion.png
- create mode 100644 logos/salsaplus.png
- create mode 100644 logos/sat1goldhd.png
- create mode 100644 logos/sat1hd.png
- rename logos/{sctboyamp;boy.png => sctboyboy.png} (100%)
- create mode 100644 logos/scuzz.png
- create mode 100644 logos/semerkandhd.png
- create mode 100644 logos/servusathd.png
- create mode 100644 logos/showtvhd.png
- delete mode 100644 logos/shumen.png
- create mode 100644 logos/skyactionhd.png
- create mode 100644 logos/skybundesliga1.png
- create mode 100644 logos/skybundesliga1hd.png
- create mode 100644 logos/skycinemafamilyhd.png
- create mode 100644 logos/skycinemahd.png
- create mode 100644 logos/skycinemahitshd.png
- create mode 100644 logos/skycomedy.png
- create mode 100644 logos/skyitcinema.png
- create mode 100644 logos/skyitcinemacomedy.png
- create mode 100644 logos/skyitcinemacult.png
- create mode 100644 logos/skyitcinemafamily.png
- create mode 100644 logos/skyitcinemahits.png
- create mode 100644 logos/skyitcinemapassion.png
- rename logos/{sonymoviechannel.png => sonymovies.png} (100%)
- create mode 100644 logos/spiegelgeschichtehd.png
- create mode 100644 logos/sport1dehd.png
- create mode 100644 logos/sportklub3hd.png
- create mode 100644 logos/sportklub6.png
- create mode 100644 logos/srfernsehenhd.png
- create mode 100644 logos/stargold.png
- create mode 100644 logos/starplus.png
- create mode 100644 logos/starplushd.png
- create mode 100644 logos/startvhd.png
- rename logos/{stoychev.png => stoicev.png} (100%)
- create mode 100644 logos/stsint.png
- create mode 100644 logos/sumen.png
- rename logos/{supertennis.png => suppertennis.png} (100%)
- create mode 100644 logos/suppertennishd.png
- create mode 100644 logos/taytvhd.png
- create mode 100644 logos/tele5dehd.png
- create mode 100644 logos/telekanalkhl.png
- create mode 100644 logos/telekanalkhlhd.png
- rename logos/{telekanalnovostey24ukr.png => telekanalnovostei24ukr.png} (100%)
- create mode 100644 logos/teve2hd.png
- create mode 100644 logos/thevault.png
- create mode 100644 logos/tnthd.png
- create mode 100644 logos/travelchannelhd.png
- create mode 100644 logos/trt1hd.png
- create mode 100644 logos/trtbelgeselhd.png
- create mode 100644 logos/trtcocukhd.png
- create mode 100644 logos/trtworldhd.png
- create mode 100644 logos/truemovies.png
- create mode 100644 logos/trutv.png
- create mode 100644 logos/trutvhd.png
- create mode 100644 logos/tv1000komedihd.png
- create mode 100644 logos/tv1000megahithd.png
- create mode 100644 logos/tv1000premium.png
- create mode 100644 logos/tv1000premiumhd.png
- create mode 100644 logos/tv1000russkoekino.png
- delete mode 100644 "logos/tv1000\320\272\320\276\320\274\320\265\320\264\320\270hd.png"
- delete mode 100644 "logos/tv1000\320\274\320\265\320\263\320\260\321\205\320\270\321\202hd.png"
- delete mode 100644 "logos/tv1000\320\277\321\200\320\265\320\274\320\270\321\203\320\274hd.png"
- create mode 100644 logos/tv1hd.png
- create mode 100644 logos/tvcitsenterint.png
- create mode 100644 logos/tvnhd.png
- create mode 100644 logos/tvr2ro.png
- create mode 100644 logos/tvr3ro.png
- create mode 100644 logos/tvr3rohd.png
- create mode 100644 logos/tvrcluj.png
- create mode 100644 logos/tvrcraiova.png
- create mode 100644 logos/tvrhdro.png
- create mode 100644 logos/tvrlasi.png
- create mode 100644 logos/tvrmoldova.png
- create mode 100644 logos/tvrtarguminusmures.png
- create mode 100644 logos/tvrtimisoara.png
- create mode 100644 logos/tvzentrmejdunarodnyi.png
- rename logos/{tvcitsenter.png => tvzentrrossia.png} (100%)
- rename logos/{yu.png => u.png} (100%)
- create mode 100644 logos/uatvukr.png
- create mode 100644 logos/viphd.png
- create mode 100644 logos/viptv.png
- create mode 100644 logos/vrema.png
- delete mode 100644 logos/vremya.png
- create mode 100644 logos/wdrhd.png
- create mode 100644 logos/westtvregional.png
- create mode 100644 logos/wildtvhd.png
- create mode 100644 logos/yabantv.png
- create mode 100644 logos/zdf.png
- create mode 100644 logos/zdfhd.png
- delete mode 100644 logos/zhivi.png
- create mode 100644 logos/ziggosportselecthd.png
---2017-07-15 04:00:18--  http://sov02lr02/guides/epg.xml
+ .../comedyplustest.png                             |  Bin 32740 -> 32740 bytes
+ logos/{discoveryhdde.png => discoverydehd.png}     |  Bin 10278 -> 10278 bytes
+ logos/dorcelhd.png                                 |  Bin 72375 -> 11395 bytes
+ logos/ligtv.png                                    |  Bin 129 -> 62254 bytes
+ logos/pinkm.png                                    |  Bin 61610 -> 21379 bytes
+ logos/powertv.png                                  |  Bin 19218 -> 11381 bytes
+ logos/salon2.png                                   |  Bin 0 -> 9703 bytes
+ logos/salon3.png                                   |  Bin 0 -> 9686 bytes
+ logos/skyatlantichd.png                            |  Bin 0 -> 38069 bytes
+ logos/skyhitshd.png                                |  Bin 0 -> 213004 bytes
+ logos/tivibusporhd.png                             |  Bin 0 -> 4295 bytes
+ logos/trt.png                                      |  Bin 495376 -> 35680 bytes
+ logos/trtsporhd.png                                |  Bin 0 -> 176475 bytes
+ logos/{tvrlasi.png => tvriasi.png}                 |  Bin 29393 -> 29393 bytes
+ logos/ziggosportnl.png                             |  Bin 0 -> 29971 bytes
+ orf1hd.svg                                         |   50 --------
+ orf2hd.svg                                         |  132 --------------------
+ raiyoyohd.svg                                      |   50 --------
+ zdfhd.svg                                          |   95 --------------
+ 19 files changed, 327 deletions(-)
+ rename "logos/comedyplus\321\202\320\265\321\201\321\202.png" => logos/comedyplustest.png (100%)
+ rename logos/{discoveryhdde.png => discoverydehd.png} (100%)
+ create mode 100644 logos/salon2.png
+ create mode 100644 logos/salon3.png
+ create mode 100644 logos/skyatlantichd.png
+ create mode 100644 logos/skyhitshd.png
+ create mode 100644 logos/tivibusporhd.png
+ create mode 100644 logos/trtsporhd.png
+ rename logos/{tvrlasi.png => tvriasi.png} (100%)
+ create mode 100644 logos/ziggosportnl.png
+ delete mode 100644 orf1hd.svg
+ delete mode 100644 orf2hd.svg
+ delete mode 100644 raiyoyohd.svg
+ delete mode 100644 zdfhd.svg
+--2017-07-16 04:00:09--  http://sov02lr02/guides/epg.xml
 Resolving sov02lr02 (sov02lr02)... 15.119.187.142
 Connecting to sov02lr02 (sov02lr02)|15.119.187.142|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 14223830 (14M) [text/xml]
+Length: 14628062 (14M) [text/xml]
 Saving to: `epg.xml'
 
-     0K .......... .......... .......... .......... ..........  0% 30.4M 0s
-    50K .......... .......... .......... .......... ..........  0%  258K 27s
-   100K .......... .......... .......... .......... ..........  1% 5.39M 19s
-   150K .......... .......... .......... .......... ..........  1%  163K 35s
-   200K .......... .......... .......... .......... ..........  1%  129M 28s
-   250K .......... .......... .......... .......... ..........  2% 74.9M 23s
-   300K .......... .......... .......... .......... ..........  2%  604K 23s
-   350K .......... .......... .......... .......... ..........  2% 86.7M 20s
-   400K .......... .......... .......... .......... ..........  3%  207K 25s
-   450K .......... .......... .......... .......... ..........  3%  129M 22s
-   500K .......... .......... .......... .......... ..........  3%  188M 20s
-   550K .......... .......... .......... .......... ..........  4% 2.28M 19s
-   600K .......... .......... .......... .......... ..........  4%  146M 18s
-   650K .......... .......... .......... .......... ..........  5%  210M 16s
-   700K .......... .......... .......... .......... ..........  5%  340K 18s
-   750K .......... .......... .......... .......... ..........  5%  175M 16s
-   800K .......... .......... .......... .......... ..........  6% 53.2M 15s
-   850K .......... .......... .......... .......... ..........  6%  167M 15s
-   900K .......... .......... .......... .......... ..........  6%  138M 14s
-   950K .......... .......... .......... .......... ..........  7%  222K 16s
-  1000K .......... .......... .......... .......... ..........  7%  158M 15s
-  1050K .......... .......... .......... .......... ..........  7%  199M 14s
-  1100K .......... .......... .......... .......... ..........  8% 42.0M 14s
-  1150K .......... .......... .......... .......... ..........  8%  170M 13s
-  1200K .......... .......... .......... .......... ..........  8%  339K 14s
-  1250K .......... .......... .......... .......... ..........  9% 55.3M 13s
-  1300K .......... .......... .......... .......... ..........  9% 47.4M 13s
-  1350K .......... .......... .......... .......... .......... 10%  189M 12s
-  1400K .......... .......... .......... .......... .......... 10%  167M 12s
-  1450K .......... .......... .......... .......... .......... 10%  190M 11s
-  1500K .......... .......... .......... .......... .......... 11%  188M 11s
-  1550K .......... .......... .......... .......... .......... 11%  191M 11s
-  1600K .......... .......... .......... .......... .......... 11%  155M 10s
-  1650K .......... .......... .......... .......... .......... 12%  192M 10s
-  1700K .......... .......... .......... .......... .......... 12%  290K 11s
-  1750K .......... .......... .......... .......... .......... 12%  131M 10s
-  1800K .......... .......... .......... .......... .......... 13%  144M 10s
-  1850K .......... .......... .......... .......... .......... 13%  258M 10s
-  1900K .......... .......... .......... .......... .......... 14%  212M 10s
-  1950K .......... .......... .......... .......... .......... 14%  274M 9s
-  2000K .......... .......... .......... .......... .......... 14%  177M 9s
-  2050K .......... .......... .......... .......... .......... 15%  261M 9s
-  2100K .......... .......... .......... .......... .......... 15%  269M 9s
-  2150K .......... .......... .......... .......... .......... 15%  278M 8s
-  2200K .......... .......... .......... .......... .......... 16%  636K 8s
-  2250K .......... .......... .......... .......... .......... 16%  176M 8s
-  2300K .......... .......... .......... .......... .......... 16%  189M 8s
-  2350K .......... .......... .......... .......... .......... 17%  214M 8s
-  2400K .......... .......... .......... .......... .......... 17%  183M 8s
-  2450K .......... .......... .......... .......... .......... 17%  100M 7s
-  2500K .......... .......... .......... .......... .......... 18% 42.3M 7s
-  2550K .......... .......... .......... .......... .......... 18% 80.2M 7s
-  2600K .......... .......... .......... .......... .......... 19%  107M 7s
-  2650K .......... .......... .......... .......... .......... 19%  130M 7s
-  2700K .......... .......... .......... .......... .......... 19%  175M 7s
-  2750K .......... .......... .......... .......... .......... 20%  603K 7s
-  2800K .......... .......... .......... .......... .......... 20% 18.3M 7s
-  2850K .......... .......... .......... .......... .......... 20% 26.0M 7s
-  2900K .......... .......... .......... .......... .......... 21% 15.5M 6s
-  2950K .......... .......... .......... .......... .......... 21% 58.1M 6s
-  3000K .......... .......... .......... .......... .......... 21%  122M 6s
-  3050K .......... .......... .......... .......... .......... 22%  158M 6s
-  3100K .......... .......... .......... .......... .......... 22%  169M 6s
-  3150K .......... .......... .......... .......... .......... 23%  178M 6s
-  3200K .......... .......... .......... .......... .......... 23%  141M 6s
-  3250K .......... .......... .......... .......... .......... 23%  160M 6s
-  3300K .......... .......... .......... .......... .......... 24%  203M 5s
-  3350K .......... .......... .......... .......... .......... 24%  114M 5s
-  3400K .......... .......... .......... .......... .......... 24%  141M 5s
-  3450K .......... .......... .......... .......... .......... 25%  205M 5s
-  3500K .......... .......... .......... .......... .......... 25%  155M 5s
-  3550K .......... .......... .......... .......... .......... 25%  147M 5s
-  3600K .......... .......... .......... .......... .......... 26%  152M 5s
-  3650K .......... .......... .......... .......... .......... 26%  200M 5s
-  3700K .......... .......... .......... .......... .......... 26%  224M 5s
-  3750K .......... .......... .......... .......... .......... 27% 1.74M 5s
-  3800K .......... .......... .......... .......... .......... 27% 23.9M 5s
-  3850K .......... .......... .......... .......... .......... 28%  158M 5s
-  3900K .......... .......... .......... .......... .......... 28%  190M 4s
-  3950K .......... .......... .......... .......... .......... 28% 38.0M 4s
-  4000K .......... .......... .......... .......... .......... 29% 22.5M 4s
-  4050K .......... .......... .......... .......... .......... 29% 28.1M 4s
-  4100K .......... .......... .......... .......... .......... 29%  201M 4s
-  4150K .......... .......... .......... .......... .......... 30%  199M 4s
-  4200K .......... .......... .......... .......... .......... 30%  120M 4s
-  4250K .......... .......... .......... .......... .......... 30%  172M 4s
-  4300K .......... .......... .......... .......... .......... 31% 75.0M 4s
-  4350K .......... .......... .......... .......... .......... 31%  154M 4s
-  4400K .......... .......... .......... .......... .......... 32%  123M 4s
-  4450K .......... .......... .......... .......... .......... 32%  164M 4s
-  4500K .......... .......... .......... .......... .......... 32%  193M 4s
-  4550K .......... .......... .......... .......... .......... 33%  240M 4s
-  4600K .......... .......... .......... .......... .......... 33%  134M 4s
-  4650K .......... .......... .......... .......... .......... 33%  207M 3s
-  4700K .......... .......... .......... .......... .......... 34%  195M 3s
-  4750K .......... .......... .......... .......... .......... 34%  224M 3s
-  4800K .......... .......... .......... .......... .......... 34%  586K 3s
-  4850K .......... .......... .......... .......... .......... 35% 48.6M 3s
-  4900K .......... .......... .......... .......... .......... 35% 26.7M 3s
-  4950K .......... .......... .......... .......... .......... 35% 95.1M 3s
-  5000K .......... .......... .......... .......... .......... 36% 34.7M 3s
-  5050K .......... .......... .......... .......... .......... 36% 46.4M 3s
-  5100K .......... .......... .......... .......... .......... 37%  172M 3s
-  5150K .......... .......... .......... .......... .......... 37%  174M 3s
-  5200K .......... .......... .......... .......... .......... 37%  172M 3s
-  5250K .......... .......... .......... .......... .......... 38%  191M 3s
-  5300K .......... .......... .......... .......... .......... 38%  158M 3s
-  5350K .......... .......... .......... .......... .......... 38%  110M 3s
-  5400K .......... .......... .......... .......... .......... 39%  155M 3s
-  5450K .......... .......... .......... .......... .......... 39%  117M 3s
-  5500K .......... .......... .......... .......... .......... 39% 91.7M 3s
-  5550K .......... .......... .......... .......... .......... 40%  140M 3s
-  5600K .......... .......... .......... .......... .......... 40%  173M 3s
-  5650K .......... .......... .......... .......... .......... 41%  165M 3s
-  5700K .......... .......... .......... .......... .......... 41%  198M 3s
-  5750K .......... .......... .......... .......... .......... 41%  159M 3s
-  5800K .......... .......... .......... .......... .......... 42%  733K 3s
-  5850K .......... .......... .......... .......... .......... 42% 14.9M 3s
-  5900K .......... .......... .......... .......... .......... 42% 18.2M 3s
-  5950K .......... .......... .......... .......... .......... 43% 13.1M 3s
-  6000K .......... .......... .......... .......... .......... 43% 10.9M 3s
-  6050K .......... .......... .......... .......... .......... 43% 30.0M 3s
-  6100K .......... .......... .......... .......... .......... 44%  108M 2s
-  6150K .......... .......... .......... .......... .......... 44%  155M 2s
-  6200K .......... .......... .......... .......... .......... 44%  167M 2s
-  6250K .......... .......... .......... .......... .......... 45%  237M 2s
-  6300K .......... .......... .......... .......... .......... 45%  187M 2s
-  6350K .......... .......... .......... .......... .......... 46%  158M 2s
-  6400K .......... .......... .......... .......... .......... 46%  161M 2s
-  6450K .......... .......... .......... .......... .......... 46%  236M 2s
-  6500K .......... .......... .......... .......... .......... 47%  216M 2s
-  6550K .......... .......... .......... .......... .......... 47%  199M 2s
-  6600K .......... .......... .......... .......... .......... 47%  174M 2s
-  6650K .......... .......... .......... .......... .......... 48%  187M 2s
-  6700K .......... .......... .......... .......... .......... 48%  211M 2s
-  6750K .......... .......... .......... .......... .......... 48%  184M 2s
-  6800K .......... .......... .......... .......... .......... 49%  144M 2s
-  6850K .......... .......... .......... .......... .......... 49%  221M 2s
-  6900K .......... .......... .......... .......... .......... 50%  160M 2s
-  6950K .......... .......... .......... .......... .......... 50%  120M 2s
-  7000K .......... .......... .......... .......... .......... 50%  133M 2s
-  7050K .......... .......... .......... .......... .......... 51%  189M 2s
-  7100K .......... .......... .......... .......... .......... 51%  167M 2s
-  7150K .......... .......... .......... .......... .......... 51%  126M 2s
-  7200K .......... .......... .......... .......... .......... 52% 96.9M 2s
-  7250K .......... .......... .......... .......... .......... 52%  157M 2s
-  7300K .......... .......... .......... .......... .......... 52%  181M 2s
-  7350K .......... .......... .......... .......... .......... 53%  189M 2s
-  7400K .......... .......... .......... .......... .......... 53%  193M 2s
-  7450K .......... .......... .......... .......... .......... 53%  190M 2s
-  7500K .......... .......... .......... .......... .......... 54%  188M 2s
-  7550K .......... .......... .......... .......... .......... 54%  193M 2s
-  7600K .......... .......... .......... .......... .......... 55%  161M 2s
-  7650K .......... .......... .......... .......... .......... 55%  198M 2s
-  7700K .......... .......... .......... .......... .......... 55%  191M 2s
-  7750K .......... .......... .......... .......... .......... 56%  223M 2s
-  7800K .......... .......... .......... .......... .......... 56%  142M 2s
-  7850K .......... .......... .......... .......... .......... 56%  790K 2s
-  7900K .......... .......... .......... .......... .......... 57% 38.1M 2s
-  7950K .......... .......... .......... .......... .......... 57%  139M 1s
-  8000K .......... .......... .......... .......... .......... 57% 84.2M 1s
-  8050K .......... .......... .......... .......... .......... 58% 61.6M 1s
-  8100K .......... .......... .......... .......... .......... 58% 90.8M 1s
-  8150K .......... .......... .......... .......... .......... 59% 8.68M 1s
-  8200K .......... .......... .......... .......... .......... 59% 9.04M 1s
-  8250K .......... .......... .......... .......... .......... 59% 42.1M 1s
-  8300K .......... .......... .......... .......... .......... 60% 37.8M 1s
-  8350K .......... .......... .......... .......... .......... 60%  218M 1s
-  8400K .......... .......... .......... .......... .......... 60%  190M 1s
-  8450K .......... .......... .......... .......... .......... 61%  164K 1s
-  8500K .......... .......... .......... .......... .......... 61%  102M 1s
-  8550K .......... .......... .......... .......... .......... 61% 95.2M 1s
-  8600K .......... .......... .......... .......... .......... 62% 61.7M 1s
-  8650K .......... .......... .......... .......... .......... 62% 47.3M 1s
-  8700K .......... .......... .......... .......... .......... 62%  107M 1s
-  8750K .......... .......... .......... .......... .......... 63% 41.5M 1s
-  8800K .......... .......... .......... .......... .......... 63%  133M 1s
-  8850K .......... .......... .......... .......... .......... 64% 44.8M 1s
-  8900K .......... .......... .......... .......... .......... 64%  175M 1s
-  8950K .......... .......... .......... .......... .......... 64% 36.3M 1s
-  9000K .......... .......... .......... .......... .......... 65%  118M 1s
-  9050K .......... .......... .......... .......... .......... 65% 35.3M 1s
-  9100K .......... .......... .......... .......... .......... 65%  141M 1s
-  9150K .......... .......... .......... .......... .......... 66% 13.8M 1s
-  9200K .......... .......... .......... .......... .......... 66% 75.6M 1s
-  9250K .......... .......... .......... .......... .......... 66% 40.5M 1s
-  9300K .......... .......... .......... .......... .......... 67% 25.8M 1s
-  9350K .......... .......... .......... .......... .......... 67% 15.3M 1s
-  9400K .......... .......... .......... .......... .......... 68%  116M 1s
-  9450K .......... .......... .......... .......... .......... 68%  151M 1s
-  9500K .......... .......... .......... .......... .......... 68% 22.4M 1s
-  9550K .......... .......... .......... .......... .......... 69% 84.3M 1s
-  9600K .......... .......... .......... .......... .......... 69%  147M 1s
-  9650K .......... .......... .......... .......... .......... 69%  120M 1s
-  9700K .......... .......... .......... .......... .......... 70%  131M 1s
-  9750K .......... .......... .......... .......... .......... 70% 28.6M 1s
-  9800K .......... .......... .......... .......... .......... 70% 36.9M 1s
-  9850K .......... .......... .......... .......... .......... 71% 54.0M 1s
-  9900K .......... .......... .......... .......... .......... 71%  172M 1s
-  9950K .......... .......... .......... .......... .......... 71%  155M 1s
- 10000K .......... .......... .......... .......... .......... 72%  111M 1s
- 10050K .......... .......... .......... .......... .......... 72%  133M 1s
- 10100K .......... .......... .......... .......... .......... 73%  159M 1s
- 10150K .......... .......... .......... .......... .......... 73%  172M 1s
- 10200K .......... .......... .......... .......... .......... 73%  120M 1s
- 10250K .......... .......... .......... .......... .......... 74%  123M 1s
- 10300K .......... .......... .......... .......... .......... 74%  147M 1s
- 10350K .......... .......... .......... .......... .......... 74%  125M 1s
- 10400K .......... .......... .......... .......... .......... 75%  119M 1s
- 10450K .......... .......... .......... .......... .......... 75%  140M 1s
- 10500K .......... .......... .......... .......... .......... 75%  171M 1s
- 10550K .......... .......... .......... .......... .......... 76%  175M 1s
- 10600K .......... .......... .......... .......... .......... 76%  149M 1s
- 10650K .......... .......... .......... .......... .......... 77%  171M 1s
- 10700K .......... .......... .......... .......... .......... 77%  160M 1s
- 10750K .......... .......... .......... .......... .......... 77%  143M 1s
- 10800K .......... .......... .......... .......... .......... 78%  123M 1s
- 10850K .......... .......... .......... .......... .......... 78%  144M 1s
- 10900K .......... .......... .......... .......... .......... 78%  172M 1s
- 10950K .......... .......... .......... .......... .......... 79%  171M 1s
- 11000K .......... .......... .......... .......... .......... 79%  126M 1s
- 11050K .......... .......... .......... .......... .......... 79%  146M 1s
- 11100K .......... .......... .......... .......... .......... 80%  165M 1s
- 11150K .......... .......... .......... .......... .......... 80%  155M 1s
- 11200K .......... .......... .......... .......... .......... 80%  150M 1s
- 11250K .......... .......... .......... .......... .......... 81%  149M 1s
- 11300K .......... .......... .......... .......... .......... 81%  143M 1s
- 11350K .......... .......... .......... .......... .......... 82%  141M 1s
- 11400K .......... .......... .......... .......... .......... 82%  149M 1s
- 11450K .......... .......... .......... .......... .......... 82%  197M 0s
- 11500K .......... .......... .......... .......... .......... 83%  118M 0s
- 11550K .......... .......... .......... .......... .......... 83%  135M 0s
- 11600K .......... .......... .......... .......... .......... 83%  124M 0s
- 11650K .......... .......... .......... .......... .......... 84%  184M 0s
- 11700K .......... .......... .......... .......... .......... 84%  172M 0s
- 11750K .......... .......... .......... .......... .......... 84%  176M 0s
- 11800K .......... .......... .......... .......... .......... 85%  172M 0s
- 11850K .......... .......... .......... .......... .......... 85%  184M 0s
- 11900K .......... .......... .......... .......... .......... 86%  172M 0s
- 11950K .......... .......... .......... .......... .......... 86%  448K 0s
- 12000K .......... .......... .......... .......... .......... 86% 84.0M 0s
- 12050K .......... .......... .......... .......... .......... 87% 92.3M 0s
- 12100K .......... .......... .......... .......... .......... 87%  129M 0s
- 12150K .......... .......... .......... .......... .......... 87% 84.3M 0s
- 12200K .......... .......... .......... .......... .......... 88%  196M 0s
- 12250K .......... .......... .......... .......... .......... 88%  358M 0s
- 12300K .......... .......... .......... .......... .......... 88% 53.2M 0s
- 12350K .......... .......... .......... .......... .......... 89% 24.5M 0s
- 12400K .......... .......... .......... .......... .......... 89% 84.1M 0s
- 12450K .......... .......... .......... .......... .......... 89% 94.9M 0s
- 12500K .......... .......... .......... .......... .......... 90% 55.1M 0s
- 12550K .......... .......... .......... .......... .......... 90% 76.6M 0s
- 12600K .......... .......... .......... .......... .......... 91% 53.5M 0s
- 12650K .......... .......... .......... .......... .......... 91% 53.9M 0s
- 12700K .......... .......... .......... .......... .......... 91%  111M 0s
- 12750K .......... .......... .......... .......... .......... 92%  303M 0s
- 12800K .......... .......... .......... .......... .......... 92% 78.6M 0s
- 12850K .......... .......... .......... .......... .......... 92% 61.3M 0s
- 12900K .......... .......... .......... .......... .......... 93% 65.2M 0s
- 12950K .......... .......... .......... .......... .......... 93% 79.9M 0s
- 13000K .......... .......... .......... .......... .......... 93% 66.7M 0s
- 13050K .......... .......... .......... .......... .......... 94% 62.2M 0s
- 13100K .......... .......... .......... .......... .......... 94% 94.3M 0s
- 13150K .......... .......... .......... .......... .......... 95% 97.8M 0s
- 13200K .......... .......... .......... .......... .......... 95%  149M 0s
- 13250K .......... .......... .......... .......... .......... 95% 78.5M 0s
- 13300K .......... .......... .......... .......... .......... 96% 79.4M 0s
- 13350K .......... .......... .......... .......... .......... 96% 47.3M 0s
- 13400K .......... .......... .......... .......... .......... 96% 94.0M 0s
- 13450K .......... .......... .......... .......... .......... 97%  316M 0s
- 13500K .......... .......... .......... .......... .......... 97%  391M 0s
- 13550K .......... .......... .......... .......... .......... 97%  306M 0s
- 13600K .......... .......... .......... .......... .......... 98%  283M 0s
- 13650K .......... .......... .......... .......... .......... 98%  158M 0s
- 13700K .......... .......... .......... .......... .......... 98%  367M 0s
- 13750K .......... .......... .......... .......... .......... 99%  345M 0s
- 13800K .......... .......... .......... .......... .......... 99%  377M 0s
- 13850K .......... .......... .......... ..........           100%  275M=2.5s
+     0K .......... .......... .......... .......... ..........  0% 34.9M 0s
+    50K .......... .......... .......... .......... ..........  0% 5.23M 2s
+   100K .......... .......... .......... .......... ..........  1% 5.02M 2s
+   150K .......... .......... .......... .......... ..........  1% 2.31M 3s
+   200K .......... .......... .......... .......... ..........  1% 85.4M 2s
+   250K .......... .......... .......... .......... ..........  2% 3.06M 3s
+   300K .......... .......... .......... .......... ..........  2% 52.3M 2s
+   350K .......... .......... .......... .......... ..........  2% 1.08M 4s
+   400K .......... .......... .......... .......... ..........  3% 53.7M 3s
+   450K .......... .......... .......... .......... ..........  3% 91.4M 3s
+   500K .......... .......... .......... .......... ..........  3%  734K 4s
+   550K .......... .......... .......... .......... ..........  4%  120M 4s
+   600K .......... .......... .......... .......... ..........  4%  556K 6s
+   650K .......... .......... .......... .......... ..........  4%  113M 5s
+   700K .......... .......... .......... .......... ..........  5% 35.7M 5s
+   750K .......... .......... .......... .......... ..........  5%  163M 4s
+   800K .......... .......... .......... .......... ..........  5%  136M 4s
+   850K .......... .......... .......... .......... ..........  6% 2.41M 4s
+   900K .......... .......... .......... .......... ..........  6%  102M 4s
+   950K .......... .......... .......... .......... ..........  7%  142M 4s
+  1000K .......... .......... .......... .......... ..........  7% 31.5M 4s
+  1050K .......... .......... .......... .......... ..........  7%  193M 3s
+  1100K .......... .......... .......... .......... ..........  8%  220M 3s
+  1150K .......... .......... .......... .......... ..........  8%  211K 6s
+  1200K .......... .......... .......... .......... ..........  8% 66.5M 6s
+  1250K .......... .......... .......... .......... ..........  9%  204M 5s
+  1300K .......... .......... .......... .......... ..........  9%  225M 5s
+  1350K .......... .......... .......... .......... ..........  9%  268M 5s
+  1400K .......... .......... .......... .......... .......... 10%  490K 6s
+  1450K .......... .......... .......... .......... .......... 10% 35.2M 5s
+  1500K .......... .......... .......... .......... .......... 10% 52.9M 5s
+  1550K .......... .......... .......... .......... .......... 11%  306M 5s
+  1600K .......... .......... .......... .......... .......... 11%  277M 5s
+  1650K .......... .......... .......... .......... .......... 11%  322M 5s
+  1700K .......... .......... .......... .......... .......... 12% 51.9M 5s
+  1750K .......... .......... .......... .......... .......... 12%  436M 4s
+  1800K .......... .......... .......... .......... .......... 12%  331M 4s
+  1850K .......... .......... .......... .......... .......... 13%  308M 4s
+  1900K .......... .......... .......... .......... .......... 13%  498K 5s
+  1950K .......... .......... .......... .......... .......... 14% 28.3M 5s
+  2000K .......... .......... .......... .......... .......... 14%  123M 4s
+  2050K .......... .......... .......... .......... .......... 14% 65.5M 4s
+  2100K .......... .......... .......... .......... .......... 15%  346M 4s
+  2150K .......... .......... .......... .......... .......... 15%  364M 4s
+  2200K .......... .......... .......... .......... .......... 15%  182M 4s
+  2250K .......... .......... .......... .......... .......... 16%  183M 4s
+  2300K .......... .......... .......... .......... .......... 16%  228M 4s
+  2350K .......... .......... .......... .......... .......... 16%  284M 4s
+  2400K .......... .......... .......... .......... .......... 17% 3.05M 4s
+  2450K .......... .......... .......... .......... .......... 17% 43.1M 4s
+  2500K .......... .......... .......... .......... .......... 17%  225M 3s
+  2550K .......... .......... .......... .......... .......... 18%  211M 3s
+  2600K .......... .......... .......... .......... .......... 18% 40.0M 3s
+  2650K .......... .......... .......... .......... .......... 18% 60.4M 3s
+  2700K .......... .......... .......... .......... .......... 19%  160M 3s
+  2750K .......... .......... .......... .......... .......... 19%  164M 3s
+  2800K .......... .......... .......... .......... .......... 19%  137M 3s
+  2850K .......... .......... .......... .......... .......... 20%  167M 3s
+  2900K .......... .......... .......... .......... .......... 20% 2.45M 3s
+  2950K .......... .......... .......... .......... .......... 21% 18.9M 3s
+  3000K .......... .......... .......... .......... .......... 21% 31.2M 3s
+  3050K .......... .......... .......... .......... .......... 21% 40.3M 3s
+  3100K .......... .......... .......... .......... .......... 22% 43.3M 3s
+  3150K .......... .......... .......... .......... .......... 22% 28.9M 3s
+  3200K .......... .......... .......... .......... .......... 22%  105M 3s
+  3250K .......... .......... .......... .......... .......... 23%  307M 3s
+  3300K .......... .......... .......... .......... .......... 23%  224M 3s
+  3350K .......... .......... .......... .......... .......... 23%  279M 3s
+  3400K .......... .......... .......... .......... .......... 24%  298M 2s
+  3450K .......... .......... .......... .......... .......... 24%  375M 2s
+  3500K .......... .......... .......... .......... .......... 24%  280M 2s
+  3550K .......... .......... .......... .......... .......... 25%  309M 2s
+  3600K .......... .......... .......... .......... .......... 25%  234M 2s
+  3650K .......... .......... .......... .......... .......... 25%  240M 2s
+  3700K .......... .......... .......... .......... .......... 26%  320M 2s
+  3750K .......... .......... .......... .......... .......... 26%  304M 2s
+  3800K .......... .......... .......... .......... .......... 26%  262M 2s
+  3850K .......... .......... .......... .......... .......... 27%  286M 2s
+  3900K .......... .......... .......... .......... .......... 27%  302M 2s
+  3950K .......... .......... .......... .......... .......... 28% 2.98M 2s
+  4000K .......... .......... .......... .......... .......... 28% 24.6M 2s
+  4050K .......... .......... .......... .......... .......... 28% 74.8M 2s
+  4100K .......... .......... .......... .......... .......... 29% 37.9M 2s
+  4150K .......... .......... .......... .......... .......... 29% 81.7M 2s
+  4200K .......... .......... .......... .......... .......... 29%  288M 2s
+  4250K .......... .......... .......... .......... .......... 30%  289M 2s
+  4300K .......... .......... .......... .......... .......... 30%  301M 2s
+  4350K .......... .......... .......... .......... .......... 30%  222M 2s
+  4400K .......... .......... .......... .......... .......... 31%  224M 2s
+  4450K .......... .......... .......... .......... .......... 31%  307M 2s
+  4500K .......... .......... .......... .......... .......... 31%  264M 2s
+  4550K .......... .......... .......... .......... .......... 32%  300M 2s
+  4600K .......... .......... .......... .......... .......... 32%  236M 2s
+  4650K .......... .......... .......... .......... .......... 32%  382M 2s
+  4700K .......... .......... .......... .......... .......... 33%  340M 2s
+  4750K .......... .......... .......... .......... .......... 33%  317M 2s
+  4800K .......... .......... .......... .......... .......... 33%  304M 2s
+  4850K .......... .......... .......... .......... .......... 34%  346M 2s
+  4900K .......... .......... .......... .......... .......... 34%  330M 2s
+  4950K .......... .......... .......... .......... .......... 35%  280K 2s
+  5000K .......... .......... .......... .......... .......... 35% 11.0M 2s
+  5050K .......... .......... .......... .......... .......... 35% 13.0M 2s
+  5100K .......... .......... .......... .......... .......... 36%  134M 2s
+  5150K .......... .......... .......... .......... .......... 36%  142M 2s
+  5200K .......... .......... .......... .......... .......... 36%  143M 2s
+  5250K .......... .......... .......... .......... .......... 37%  172M 2s
+  5300K .......... .......... .......... .......... .......... 37%  148M 2s
+  5350K .......... .......... .......... .......... .......... 37%  129M 2s
+  5400K .......... .......... .......... .......... .......... 38%  132M 2s
+  5450K .......... .......... .......... .......... .......... 38%  159M 2s
+  5500K .......... .......... .......... .......... .......... 38%  147M 2s
+  5550K .......... .......... .......... .......... .......... 39%  169M 2s
+  5600K .......... .......... .......... .......... .......... 39%  130M 2s
+  5650K .......... .......... .......... .......... .......... 39%  122M 2s
+  5700K .......... .......... .......... .......... .......... 40%  201M 1s
+  5750K .......... .......... .......... .......... .......... 40%  163M 1s
+  5800K .......... .......... .......... .......... .......... 40%  149M 1s
+  5850K .......... .......... .......... .......... .......... 41%  140M 1s
+  5900K .......... .......... .......... .......... .......... 41%  177M 1s
+  5950K .......... .......... .......... .......... .......... 42%  199M 1s
+  6000K .......... .......... .......... .......... .......... 42%  155K 2s
+  6050K .......... .......... .......... .......... .......... 42% 75.7M 2s
+  6100K .......... .......... .......... .......... .......... 43% 70.5M 2s
+  6150K .......... .......... .......... .......... .......... 43% 11.5M 2s
+  6200K .......... .......... .......... .......... .......... 43% 80.1M 2s
+  6250K .......... .......... .......... .......... .......... 44% 64.7M 2s
+  6300K .......... .......... .......... .......... .......... 44% 89.9M 2s
+  6350K .......... .......... .......... .......... .......... 44% 74.5M 2s
+  6400K .......... .......... .......... .......... .......... 45% 81.5M 2s
+  6450K .......... .......... .......... .......... .......... 45% 72.1M 2s
+  6500K .......... .......... .......... .......... .......... 45%  104M 2s
+  6550K .......... .......... .......... .......... .......... 46%  101M 2s
+  6600K .......... .......... .......... .......... .......... 46% 73.1M 2s
+  6650K .......... .......... .......... .......... .......... 46% 79.6M 2s
+  6700K .......... .......... .......... .......... .......... 47% 86.7M 1s
+  6750K .......... .......... .......... .......... .......... 47% 91.3M 1s
+  6800K .......... .......... .......... .......... .......... 47% 67.0M 1s
+  6850K .......... .......... .......... .......... .......... 48%  105M 1s
+  6900K .......... .......... .......... .......... .......... 48%  108M 1s
+  6950K .......... .......... .......... .......... .......... 49% 69.1M 1s
+  7000K .......... .......... .......... .......... .......... 49% 53.8M 1s
+  7050K .......... .......... .......... .......... .......... 49%  111M 1s
+  7100K .......... .......... .......... .......... .......... 50% 84.9M 1s
+  7150K .......... .......... .......... .......... .......... 50% 87.8M 1s
+  7200K .......... .......... .......... .......... .......... 50% 74.1M 1s
+  7250K .......... .......... .......... .......... .......... 51% 86.7M 1s
+  7300K .......... .......... .......... .......... .......... 51% 80.1M 1s
+  7350K .......... .......... .......... .......... .......... 51% 78.1M 1s
+  7400K .......... .......... .......... .......... .......... 52% 56.1M 1s
+  7450K .......... .......... .......... .......... .......... 52% 67.1M 1s
+  7500K .......... .......... .......... .......... .......... 52% 85.2M 1s
+  7550K .......... .......... .......... .......... .......... 53% 90.1M 1s
+  7600K .......... .......... .......... .......... .......... 53% 60.7M 1s
+  7650K .......... .......... .......... .......... .......... 53% 84.6M 1s
+  7700K .......... .......... .......... .......... .......... 54% 67.5M 1s
+  7750K .......... .......... .......... .......... .......... 54% 90.4M 1s
+  7800K .......... .......... .......... .......... .......... 54% 68.4M 1s
+  7850K .......... .......... .......... .......... .......... 55% 63.3M 1s
+  7900K .......... .......... .......... .......... .......... 55% 78.1M 1s
+  7950K .......... .......... .......... .......... .......... 56% 89.6M 1s
+  8000K .......... .......... .......... .......... .......... 56% 77.3M 1s
+  8050K .......... .......... .......... .......... .......... 56%  482K 1s
+  8100K .......... .......... .......... .......... .......... 57% 14.1M 1s
+  8150K .......... .......... .......... .......... .......... 57% 5.39M 1s
+  8200K .......... .......... .......... .......... .......... 57% 43.3M 1s
+  8250K .......... .......... .......... .......... .......... 58% 28.6M 1s
+  8300K .......... .......... .......... .......... .......... 58%  149M 1s
+  8350K .......... .......... .......... .......... .......... 58%  117M 1s
+  8400K .......... .......... .......... .......... .......... 59%  113M 1s
+  8450K .......... .......... .......... .......... .......... 59%  112M 1s
+  8500K .......... .......... .......... .......... .......... 59%  197M 1s
+  8550K .......... .......... .......... .......... .......... 60%  126M 1s
+  8600K .......... .......... .......... .......... .......... 60%  162M 1s
+  8650K .......... .......... .......... .......... .......... 60%  195M 1s
+  8700K .......... .......... .......... .......... .......... 61%  208M 1s
+  8750K .......... .......... .......... .......... .......... 61%  176M 1s
+  8800K .......... .......... .......... .......... .......... 61%  202M 1s
+  8850K .......... .......... .......... .......... .......... 62%  196M 1s
+  8900K .......... .......... .......... .......... .......... 62%  155M 1s
+  8950K .......... .......... .......... .......... .......... 63%  216M 1s
+  9000K .......... .......... .......... .......... .......... 63%  162M 1s
+  9050K .......... .......... .......... .......... .......... 63%  202M 1s
+  9100K .......... .......... .......... .......... .......... 64%  176M 1s
+  9150K .......... .......... .......... .......... .......... 64%  181M 1s
+  9200K .......... .......... .......... .......... .......... 64%  115M 1s
+  9250K .......... .......... .......... .......... .......... 65%  145M 1s
+  9300K .......... .......... .......... .......... .......... 65%  183M 1s
+  9350K .......... .......... .......... .......... .......... 65%  180M 1s
+  9400K .......... .......... .......... .......... .......... 66%  150M 1s
+  9450K .......... .......... .......... .......... .......... 66%  127M 1s
+  9500K .......... .......... .......... .......... .......... 66%  174M 1s
+  9550K .......... .......... .......... .......... .......... 67%  163M 1s
+  9600K .......... .......... .......... .......... .......... 67%  153M 1s
+  9650K .......... .......... .......... .......... .......... 67%  186M 1s
+  9700K .......... .......... .......... .......... .......... 68%  157M 1s
+  9750K .......... .......... .......... .......... .......... 68%  128M 1s
+  9800K .......... .......... .......... .......... .......... 68%  137M 1s
+  9850K .......... .......... .......... .......... .......... 69%  169M 1s
+  9900K .......... .......... .......... .......... .......... 69%  173M 1s
+  9950K .......... .......... .......... .......... .......... 70%  131M 1s
+ 10000K .......... .......... .......... .......... .......... 70%  106M 1s
+ 10050K .......... .......... .......... .......... .......... 70%  110M 1s
+ 10100K .......... .......... .......... .......... .......... 71%  260K 1s
+ 10150K .......... .......... .......... .......... .......... 71%  176M 1s
+ 10200K .......... .......... .......... .......... .......... 71%  160M 1s
+ 10250K .......... .......... .......... .......... .......... 72%  195M 1s
+ 10300K .......... .......... .......... .......... .......... 72%  210M 1s
+ 10350K .......... .......... .......... .......... .......... 72%  140M 1s
+ 10400K .......... .......... .......... .......... .......... 73%  105M 1s
+ 10450K .......... .......... .......... .......... .......... 73% 56.2M 1s
+ 10500K .......... .......... .......... .......... .......... 73% 90.4M 1s
+ 10550K .......... .......... .......... .......... .......... 74% 64.0M 1s
+ 10600K .......... .......... .......... .......... .......... 74% 61.1M 1s
+ 10650K .......... .......... .......... .......... .......... 74% 77.1M 1s
+ 10700K .......... .......... .......... .......... .......... 75% 86.2M 1s
+ 10750K .......... .......... .......... .......... .......... 75% 97.3M 1s
+ 10800K .......... .......... .......... .......... .......... 75%  150M 1s
+ 10850K .......... .......... .......... .......... .......... 76%  114M 1s
+ 10900K .......... .......... .......... .......... .......... 76%  105M 1s
+ 10950K .......... .......... .......... .......... .......... 77%  126M 1s
+ 11000K .......... .......... .......... .......... .......... 77% 54.6M 0s
+ 11050K .......... .......... .......... .......... .......... 77% 55.2M 0s
+ 11100K .......... .......... .......... .......... .......... 78% 92.1M 0s
+ 11150K .......... .......... .......... .......... .......... 78%  118M 0s
+ 11200K .......... .......... .......... .......... .......... 78%  109M 0s
+ 11250K .......... .......... .......... .......... .......... 79%  118M 0s
+ 11300K .......... .......... .......... .......... .......... 79%  127M 0s
+ 11350K .......... .......... .......... .......... .......... 79% 73.5M 0s
+ 11400K .......... .......... .......... .......... .......... 80%  105M 0s
+ 11450K .......... .......... .......... .......... .......... 80%  186M 0s
+ 11500K .......... .......... .......... .......... .......... 80%  167M 0s
+ 11550K .......... .......... .......... .......... .......... 81%  116M 0s
+ 11600K .......... .......... .......... .......... .......... 81%  131M 0s
+ 11650K .......... .......... .......... .......... .......... 81%  126M 0s
+ 11700K .......... .......... .......... .......... .......... 82%  131M 0s
+ 11750K .......... .......... .......... .......... .......... 82%  109M 0s
+ 11800K .......... .......... .......... .......... .......... 82% 77.1M 0s
+ 11850K .......... .......... .......... .......... .......... 83% 47.9M 0s
+ 11900K .......... .......... .......... .......... .......... 83% 92.1M 0s
+ 11950K .......... .......... .......... .......... .......... 84% 50.7M 0s
+ 12000K .......... .......... .......... .......... .......... 84%  122M 0s
+ 12050K .......... .......... .......... .......... .......... 84% 98.0M 0s
+ 12100K .......... .......... .......... .......... .......... 85% 76.0M 0s
+ 12150K .......... .......... .......... .......... .......... 85%  600K 0s
+ 12200K .......... .......... .......... .......... .......... 85% 35.8M 0s
+ 12250K .......... .......... .......... .......... .......... 86% 93.5M 0s
+ 12300K .......... .......... .......... .......... .......... 86% 95.0M 0s
+ 12350K .......... .......... .......... .......... .......... 86% 92.7M 0s
+ 12400K .......... .......... .......... .......... .......... 87% 82.1M 0s
+ 12450K .......... .......... .......... .......... .......... 87%  147M 0s
+ 12500K .......... .......... .......... .......... .......... 87%  129M 0s
+ 12550K .......... .......... .......... .......... .......... 88% 86.3M 0s
+ 12600K .......... .......... .......... .......... .......... 88% 92.4M 0s
+ 12650K .......... .......... .......... .......... .......... 88% 88.1M 0s
+ 12700K .......... .......... .......... .......... .......... 89%  124M 0s
+ 12750K .......... .......... .......... .......... .......... 89%  181M 0s
+ 12800K .......... .......... .......... .......... .......... 89%  197M 0s
+ 12850K .......... .......... .......... .......... .......... 90%  170M 0s
+ 12900K .......... .......... .......... .......... .......... 90%  110M 0s
+ 12950K .......... .......... .......... .......... .......... 91%  109M 0s
+ 13000K .......... .......... .......... .......... .......... 91% 88.0M 0s
+ 13050K .......... .......... .......... .......... .......... 91%  139M 0s
+ 13100K .......... .......... .......... .......... .......... 92%  112M 0s
+ 13150K .......... .......... .......... .......... .......... 92%  154M 0s
+ 13200K .......... .......... .......... .......... .......... 92%  150M 0s
+ 13250K .......... .......... .......... .......... .......... 93%  154M 0s
+ 13300K .......... .......... .......... .......... .......... 93%  129M 0s
+ 13350K .......... .......... .......... .......... .......... 93%  129M 0s
+ 13400K .......... .......... .......... .......... .......... 94%  145M 0s
+ 13450K .......... .......... .......... .......... .......... 94%  143M 0s
+ 13500K .......... .......... .......... .......... .......... 94%  180M 0s
+ 13550K .......... .......... .......... .......... .......... 95%  203M 0s
+ 13600K .......... .......... .......... .......... .......... 95%  164M 0s
+ 13650K .......... .......... .......... .......... .......... 95%  122M 0s
+ 13700K .......... .......... .......... .......... .......... 96%  138M 0s
+ 13750K .......... .......... .......... .......... .......... 96%  134M 0s
+ 13800K .......... .......... .......... .......... .......... 96% 98.2M 0s
+ 13850K .......... .......... .......... .......... .......... 97%  114M 0s
+ 13900K .......... .......... .......... .......... .......... 97%  145M 0s
+ 13950K .......... .......... .......... .......... .......... 98%  215M 0s
+ 14000K .......... .......... .......... .......... .......... 98%  167M 0s
+ 14050K .......... .......... .......... .......... .......... 98%  100M 0s
+ 14100K .......... .......... .......... .......... .......... 99%  153M 0s
+ 14150K .......... .......... .......... .......... .......... 99%  110M 0s
+ 14200K .......... .......... .......... .......... .......... 99%  171K 0s
+ 14250K .......... .......... .......... .....                100% 5.07M=2.1s
 
-2017-07-15 04:00:23 (5.36 MB/s) - `epg.xml' saved [14223830/14223830]
+2017-07-16 04:00:11 (6.64 MB/s) - `epg.xml' saved [14628062/14628062]
 
 Commiting changes to GIT server
